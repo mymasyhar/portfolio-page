@@ -175,10 +175,9 @@ html {
   margin: 10px;
 }
 
-.portfolio h2 {
+.portfolio h4 {
   text-align: center;
   margin: 10px 10%;
-  font-size: 36px;
 }
 /* end portfolio section */
 
@@ -221,6 +220,19 @@ html {
 }
 
 /* end contact section */
+
+/* footer section */
+footer {
+  background-color: #1F2937;
+  padding: 10px;
+  display: block;
+}
+
+footer p {
+  margin: 0 auto;
+  text-align: center;
+  color: #E5E7EB;
+}
 
 /* general  */
 .title {
